@@ -1,5 +1,5 @@
 # Página de Inicio con Efecto Parallax
-
+![Vista previa del proyecto](vista-proyecto.jpg)
 Este proyecto consiste en una página de inicio moderna y atractiva que implementa un efecto de parallax al hacer scroll. Los elementos del fondo se mueven a diferentes velocidades, creando una experiencia visual dinámica e inmersiva.
 
 ## Características
